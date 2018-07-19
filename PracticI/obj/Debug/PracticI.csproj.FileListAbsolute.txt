@@ -1,0 +1,10 @@
+C:\PracticI\PracticI\obj\Debug\PracticI.exe
+C:\PracticI\PracticI\obj\Debug\PracticI.pdb
+C:\PracticI\PracticI\obj\Debug\PracticI.csprojResolveAssemblyReference.cache
+C:\PracticI\PracticI\bin\Debug\PracticI.exe
+C:\PracticI\PracticI\bin\Debug\PracticI.pdb
+C:\C#\Curso POO\PracticaI\PracticI\PracticI\bin\Debug\PracticI.exe
+C:\C#\Curso POO\PracticaI\PracticI\PracticI\bin\Debug\PracticI.pdb
+C:\C#\Curso POO\PracticaI\PracticI\PracticI\obj\Debug\PracticI.exe
+C:\C#\Curso POO\PracticaI\PracticI\PracticI\obj\Debug\PracticI.pdb
+C:\C#\Curso POO\PracticaI\PracticI\PracticI\obj\Debug\PracticI.csprojResolveAssemblyReference.cache
